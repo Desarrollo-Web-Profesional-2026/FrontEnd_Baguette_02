@@ -1,16 +1,20 @@
-# React + Vite
+### Front End
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Npm run dev
+<img width="6112" height="1771" alt="image" src="https://github.com/user-attachments/assets/a31f1827-f33c-44e5-bc95-ae457d944ff7" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Ejecución Visual
+<img width="3278" height="1771" alt="image" src="https://github.com/user-attachments/assets/2e5c90fb-7f07-4d43-9d00-e8bec75dfa03" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Validación de ejecución
+<img width="3288" height="1772" alt="image" src="https://github.com/user-attachments/assets/dce42847-f828-4d6c-880d-3e09f1e406a6" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Verificar el funcionamiento y datos en MongoDBCompas
+<img width="921" height="517" alt="image" src="https://github.com/user-attachments/assets/bffa377d-c8bb-4cc4-94e3-377942dfe4a5" />
+
+
+
